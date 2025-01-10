@@ -1,0 +1,80 @@
+{
+  "repo": {
+    "description": {
+      "en-US": "This is a repository of microG apps to be used with F-Droid. Applications in this repository are signed official binaries built by the microG Team from the corresponding source code."
+    },
+    "mirrors": [
+      {
+        "url": "https://microg.org/fdroid/repo",
+        "isPrimary": true
+      },
+      {
+        "url": "https://raw.githubusercontent.com/microg/fdroid-repo/master/fdroid/repo"
+      }
+    ],
+    "timestamp": 1736529438000
+  },
+  "packages": {
+    "com.android.vending": {
+      "metadata": {
+        "description": {
+          "en-US": "Providing Play Store services to apps. Required for Play Services clients to connect to Play Services."
+        }
+      },
+      "versions": {
+        "7bfafc73d4456b73a9fa8f110e3d75e9b9407152db8c8f0202cbb0fd4da5dbe4": {
+          "releaseChannels": null
+        },
+        "883682167a75f38be8c0564dffd8c9cc521851d63ffd4a28d8a5e9e2cd1ddd8a": {
+          "releaseChannels": null
+        },
+        "2433f306cdde5500b0c918780f08f8d00589694df3e5e6882d7d81e6e9b52ba9": {
+          "releaseChannels": null
+        },
+        "5bf0e6ae2ba763b32cc5e3da9bd29062ea8a37842c89feb6d04c012f8eea94c9": {
+          "releaseChannels": null
+        },
+        "3eaca92ee3ec2453cc9e07b618194ba1e584b9b1b851c96a160b831b31cb81f5": {
+          "releaseChannels": null
+        },
+        "881d7d294f85165fa2891e1e345a28553dfe3975040bdb761104c0347ec586c7": {
+          "releaseChannels": null
+        },
+        "5e0d2d93f8c824ce874025073e3c3e152044c1cc837c988f9dbe0ba354c58c80": {
+          "releaseChannels": null
+        }
+      }
+    },
+    "com.google.android.gms": {
+      "versions": {
+        "530c52f2d1ab8aa170a15d9eec2afd13ace940f12d759e39175468d7ad245b58": {
+          "releaseChannels": null
+        },
+        "aaf479e1ff932d5dd8cf545b76c0857f7138196f3baf994c0fa9429aae2a622a": {
+          "releaseChannels": null
+        },
+        "33b65b5c9b7e49fbfb9aa578f452a7c85fe01920975c8432f770c8f6f04a40e3": {
+          "releaseChannels": null
+        },
+        "027da18a5ff969028a5c6cef8079e61eba99266ce56c6b812d0b9bd7b252b6d0": {
+          "releaseChannels": null
+        },
+        "0117aff8ba067a8df52616ce84631fd5648bcdb2204353d168a5ff5fb7926186": {
+          "releaseChannels": null
+        },
+        "1ec5c77faeb7d3b82f340427271f8ea32de84f640fe672b7312fb90e47f3d6dd": {
+          "releaseChannels": null
+        },
+        "1a6f6205d82c5075f1789cfc92924e5ea9b648b7397e9f667959ac4d956cb3f5": {
+          "releaseChannels": null
+        },
+        "f7654650bef3eadd78a903b75e712b98e1cc99db22e40ac2f489466a7961c4d0": {
+          "releaseChannels": null
+        },
+        "9cce679bd900e288f212a88dde844ae26b42718c22e4aa83a87ed1aa8a064555": {
+          "releaseChannels": null
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "repo": {
+    "description": {
+      "en-US": "This is a repository of microG apps to be used with F-Droid. Applications in this repository are signed official binaries built by the microG Team from the corresponding source code."
+    },
+    "mirrors": [
+      {
+        "url": "https://microg.org/fdroid/repo",
+        "isPrimary": true
+      },
+      {
+        "url": "https://raw.githubusercontent.com/microg/fdroid-repo/master/fdroid/repo"
+      }
+    ],
+    "timestamp": 1736529438000
+  }
+}

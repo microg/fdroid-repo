@@ -1,0 +1,14 @@
+{
+  "repo": {
+    "mirrors": [
+      {
+        "url": "https://microg.org/fdroid/repo",
+        "isPrimary": true
+      },
+      {
+        "url": "https://raw.githubusercontent.com/microg/fdroid-repo/master/fdroid/repo"
+      }
+    ],
+    "timestamp": 1736529438000
+  }
+}
