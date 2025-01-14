@@ -1,5 +1,27 @@
 {
   "repo": {
-    "timestamp": 1736529438000
+    "timestamp": 1736850528000
+  },
+  "packages": {
+    "com.android.vending": {
+      "versions": {
+        "91052e12866b867929f5f1ba27914b8cb365ce21d2f07e516f8c5ca930d9e5ce": null,
+        "7fbf38e5a6f7958442547971eb0fcdcbe6429ff1db8141e048516eaa65e48769": null,
+        "c34407656d196e281d07058d05f7d046a0efafcda5a9e3cc241149f55c2a83a6": null
+      }
+    },
+    "com.google.android.gms": {
+      "metadata": {
+        "added": 1535477755000
+      },
+      "versions": {
+        "edeb0f113cb48ff9381c2f3849a03fece093521ca752e6e52e2c51b208c1c4d1": null,
+        "62dd1d4edccb6a1687db62cc128a60019a82c4cd4e2b39ff99d3b4d1e4517706": null,
+        "8d29c6c50795ffbc362c1c1f216994536956042f7361ee0cf1ab9ba8381a14e8": null,
+        "6e0ee8bfe193dae39e21dc72eea6b86c5797bdd6dcb4b717cecbda10053bb049": null,
+        "99ae2cbbeea23bc2b32e1771c667113b68409e03fca719d23f5728574d8448be": null,
+        "3b89316d89f9f14ba293242d673093674d25c8864b36fe7a8d112eadd8f2c58d": null
+      }
+    }
   }
 }

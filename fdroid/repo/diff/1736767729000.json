@@ -1,0 +1,17 @@
+{
+  "repo": {
+    "timestamp": 1736850528000
+  },
+  "packages": {
+    "com.android.vending": {
+      "metadata": {
+        "added": 1443993028000
+      }
+    },
+    "com.google.android.gms": {
+      "metadata": {
+        "added": 1535477755000
+      }
+    }
+  }
+}
